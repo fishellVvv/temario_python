@@ -1,0 +1,25 @@
+# Python / entornos
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Datos grandes temporales
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+data/
+!data/README.md
+
+# Otros
+.env
+.DS_Store
