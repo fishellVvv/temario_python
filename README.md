@@ -1,4 +1,4 @@
-# The Power Master (Python)
+# Temario Python
 
 Repositorio de ejercicios y retos correspondientes al Master de The Power.
 
